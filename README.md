@@ -21,3 +21,4 @@ How to Play
 5. The game will display the number of attempts taken once you guess correctly.
 
 
+Author : JF Humaira & Al Baradi Joy 
